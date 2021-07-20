@@ -1,0 +1,12 @@
+/home/luis/workspace/ggcd1/src/main/java/SecondarySort/SecondarySortBasicPartitioner.java
+/home/luis/workspace/ggcd1/src/main/java/SecondarySort/CompositeKeyWritable.java
+/home/luis/workspace/ggcd1/src/main/java/MoviesByYear/MoviesByYear.java
+/home/luis/workspace/ggcd1/src/main/java/SecondarySort/SecondarySortBasicMapper.java
+/home/luis/workspace/ggcd1/src/main/java/SecondarySort/SecondarySortBasicReducer.java
+/home/luis/workspace/ggcd1/src/main/java/MoviesByYear/MoviesByYearTest.java
+/home/luis/workspace/ggcd1/src/main/java/Main/Main.java
+/home/luis/workspace/ggcd1/src/main/java/SecondarySort/SecondarySortBasicCompKeySortComparator.java
+/home/luis/workspace/ggcd1/src/main/java/SecondarySort/SecondarySortBasicGroupingComparator.java
+/home/luis/workspace/ggcd1/src/main/java/ToMerge/ToMergeTest.java
+/home/luis/workspace/ggcd1/src/main/java/ToMerge/ToMerge.java
+/home/luis/workspace/ggcd1/src/main/java/SecondarySort/SecondarySortBasicDriver.java

@@ -1,0 +1,14 @@
+message titleBasics {
+    required binary tconst (UTF8);
+    required group titles (LIST){
+        repeated group title{
+            required binary type (UTF8);
+            required binary primary (UTF8);
+            required binary original (UTF8);
+        }
+    }
+    optional group genres (LIST){
+        repeated binary array (UTF8);
+    }
+   required float averageRating;
+}

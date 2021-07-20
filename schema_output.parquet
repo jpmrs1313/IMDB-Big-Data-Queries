@@ -1,0 +1,17 @@
+message movieYear {
+    required binary year (UTF8);
+    required int32 numFilms;
+    required group bestMovies (LIST){
+        repeated group movie {
+            required binary movie (UTF8);
+            required int32 votes;
+        }
+    }
+    required group filmRank (LIST){
+        repeated group rank{
+            required binary position (UTF8);
+            required binary name (UTF8);
+            required float rating;
+        }
+    }
+}
