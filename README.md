@@ -7,9 +7,9 @@ As tarefas de processamento de dados a realizar são as seguintes:
 ficheiro AvroParquet com um esquema apropriado.
 
 2. Usando o ficheiro resultante da alinea anterior e considerando apenas filmes (movie), calcule para cada ano:
-• o número total de filmes;
-• o filme que recolheu mais votos;
-• os 10 melhores filmes segundo a classificação.
+      * o número total de filmes;
+      * o filme que recolheu mais votos;
+      * os 10 melhores filmes segundo a classificação.
 Estes resultados devem ser armazenados num ficheiro AvroParquet com um esquema apropriado.
 
 3. Para cada filme, recomende o outro do mesmo género que tenha a melhor classficação. Considere
